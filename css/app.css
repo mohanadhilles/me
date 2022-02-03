@@ -6,7 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     padding: 5vh 10vw;
     color: #121314;
-    background: linear-gradient(to right, #c3c8cb36, #ffffff);
+    background: linear-gradient(to top, #fff, #ffffff);
 }
   h1 {
     font-size: 4.5em;
